@@ -41,7 +41,7 @@ const projectList = [
     description:
       "As a Microsoft Student Ambassador since 2023, I promote Microsoft technologies within my university community. I organize and participate in events, showcasing the benefits and innovations of Microsoft products. By raising awareness among students and professionals, I help foster a culture of innovation and collaboration.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-  }
+  },
 ];
 
 const Portfolio = () => {

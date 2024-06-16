@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -18,7 +18,8 @@ import React from "react";
  */
 import image from "../images/IMG_8717.png";
 
-const imageAltText = "Without big data analysis, companies are blind and deaf, wandering on the web like deer on a highway.";
+const imageAltText =
+  "Without big data analysis, companies are blind and deaf, wandering on the web like deer on a highway.";
 
 /**
  * Sort description that expands on your title on the Home component.

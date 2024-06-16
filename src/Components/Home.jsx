@@ -13,7 +13,7 @@ import PropTypes from "prop-types";
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
@@ -22,7 +22,8 @@ import PropTypes from "prop-types";
  */
 import image from "../images/44.png";
 
-const imageAltText = "Software .NET developer | Web (ASP, JS) | Cloud technology (Azure) | Database (SQL servers, NoSQL) | Desktop (WPF & Winform)";
+const imageAltText =
+  "Software .NET developer | Web (ASP, JS) | Cloud technology (Azure) | Database (SQL servers, NoSQL) | Desktop (WPF & Winform)";
 
 const Home = ({ name, title }) => {
   return (
